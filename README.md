@@ -1,0 +1,1 @@
+# Evaluation-of-ImageReward-and-PickScore-Models-on-AIGIQA-4K-Dataset
